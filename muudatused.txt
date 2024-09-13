@@ -1,0 +1,7 @@
+Student
+Studentis võiks olla huviring, elukoht,keskmine hinne, hüüdnimi, telefoni number, meili aadress.
+
+Group 
+Võiks olla aasta näiteks MM-22, Rühmajuhataja,Õpealajuhataja, õpilaste arv.
+
+Veel võiks koguda tunniplaan, huviringid, ained, õpetajad, klassiruumid. 
